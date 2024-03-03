@@ -12,9 +12,7 @@ This dataset contains a list of over 23000 Kurdish and Arabic names for both gen
 
 ## Source
 
-* Dr. Polla Fattah
-  Department of Engineering
-  Salahaddin University
+* [https://data.krd/kurdish-arabic-names/](https://data.krd/kurdish-arabic-names/)
 
 ## Related Articles
 
